@@ -14,8 +14,6 @@ public class retriveremovefirst {
         System.out.println("retrive last element from treeset "+ts.pollLast());
         System.out.println(ts);
         System.out.println("remove 88 "+ts.remove(88));
-        System.out.println(ts);
-
-       
+        System.out.println(ts);       
     }
 }
